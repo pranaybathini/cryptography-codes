@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/media/vampire/Windows/!GET_ME/VI SEM/WIRELESS NETWORKS/FlexiProvider-1.7p7.signed.jar"/>
+	<classpathentry kind="lib" path="/media/vampire/Windows/!GET_ME/VI SEM/WIRELESS NETWORKS/CoDec-build17-jdk13.jar"/>
+	<classpathentry kind="lib" path="/media/vampire/Windows/!GET_ME/VI SEM/WIRELESS NETWORKS/UnlimitedJCEPolicyJDK8/local_policy.jar"/>
+	<classpathentry kind="lib" path="/media/vampire/Windows/!GET_ME/VI SEM/WIRELESS NETWORKS/UnlimitedJCEPolicyJDK8/US_export_policy.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
